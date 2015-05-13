@@ -7,8 +7,8 @@ this scafold project based on [PHP OAuth 2.0 Server for Laravel] (https://github
 
 2. then run 
 composer update
-
-3. then run 
-php artisan migrate
-
-if "Nothing to migrate." message apeared , run "php artisan migrate:reset"
+3. configure database setting in ".env" file 
+4. then run  "php artisan migrate" , if "Nothing to migrate." message apeared , run "php artisan migrate:reset"
+5. run "php artisan db:seed" to add test client and user
+the username=test@test.com
+password = password
