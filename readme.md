@@ -16,11 +16,12 @@ this scafold project based on [PHP OAuth 2.0 Server for Laravel] (https://github
 username=test@test.com   
 password = password   
 
-client App : 
+client App :   
 grant_type=password   
 client_id = GXvOWazQ3lA6YSaFji   
 client_secret =GXvOWazQ3lA.6/YSaFji   
   
 screenshot:
+![secreenshot](https://d262ilb51hltx0.cloudfront.net/max/1199/1*mCQMjumH8anBsw6XhFnxcA.png?raw=true "Optional title")
 
-https://d262ilb51hltx0.cloudfront.net/max/1199/1*mCQMjumH8anBsw6XhFnxcA.png
+ 
