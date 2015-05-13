@@ -5,7 +5,8 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
-		"laravel/framework": "5.0.*"
+		"laravel/framework": "5.0.*",
+		"lucadegasperi/oauth2-server-laravel": "4.0.x@dev"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",
@@ -41,7 +42,5 @@
 	"config": {
 		"preferred-install": "dist"
 	},
- "require": {
- 		"lucadegasperi/oauth2-server-laravel": "4.0.x@dev"
- }
+
 }
