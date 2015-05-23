@@ -12,6 +12,12 @@ this scafold project based on [PHP OAuth 2.0 Server for Laravel] (https://github
 5. run " ```php artisan db:seed ``` " to add test client and user
 6. to test the server run   ``` php artisan serve ```  , then in REST Client ( eg. postman ) , make a POST request  to ( http://localhost:8000/oauth/access_token )
 
+
+##note
+when using MAMP or work in lenux , you need the change the project folder Owner or the folder permition ,
+you can use ```chmod -R 777 * ``` ( in Development ONLY )
+
+
 ###test user:  
 username=test@test.com   
 password = password   
